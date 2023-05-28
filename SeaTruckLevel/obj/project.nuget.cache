@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "/BmfSz0pBBPR/dkcc9Imlr3Odbx1Jb1/kIl+JKEht2bzVEJk9GR+4gnaor/PCUCG8oSM5JtoMz40JdjWpWOTLA==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\C#\\Subnautica\\SeaTruckLevel\\SeaTruckLevel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MMooKow\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.0\\bepinex.assemblypublicizer.msbuild.0.4.0.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\bepinex.plugininfoprops\\1.1.0\\bepinex.plugininfoprops.1.1.0.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\harmonyx\\2.7.0\\harmonyx.2.7.0.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\monomod.runtimedetour\\21.12.13.1\\monomod.runtimedetour.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\monomod.utils\\21.12.13.1\\monomod.utils.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\polysharp\\1.13.1\\polysharp.1.13.1.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\subnautica.belowzero.gamelibs\\49371.0.0.1-r.0\\subnautica.belowzero.gamelibs.49371.0.0.1-r.0.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\subnauticazero.nautilus\\1.0.0-pre-7\\subnauticazero.nautilus.1.0.0-pre-7.nupkg.sha512",
+    "C:\\Users\\MMooKow\\.nuget\\packages\\unityengine.modules\\2019.4.36\\unityengine.modules.2019.4.36.nupkg.sha512"
+  ],
+  "logs": []
+}
