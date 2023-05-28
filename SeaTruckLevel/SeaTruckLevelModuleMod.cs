@@ -28,5 +28,8 @@ namespace SeaTruckLevel
  create module
     - figure out how to track up and down
     - figure out how to make a seatruck upgrade
+
+    ** Create prefab
+    ** Create logic
  need to add tech type
  */

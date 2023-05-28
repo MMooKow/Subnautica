@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = SeaTruckLevel
-build_property.ProjectDir = c:\Programming\C#\Subnautica\SeaTruckLevel\
+build_property.ProjectDir = C:\Users\MMooKow\Source\Repos\MMooKow\Subnautica\SeaTruckLevel\
 build_property.PolySharpUsePublicAccessibilityForGeneratedTypes = 
 build_property.PolySharpIncludeRuntimeSupportedAttributes = 
 build_property.PolySharpUseInteropServices2NamespaceForUnmanagedCallersOnlyAttribute = 
